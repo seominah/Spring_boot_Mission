@@ -6,12 +6,15 @@ basic
 <img width="800" alt="Basic_서민아" src="https://user-images.githubusercontent.com/58392978/155126357-be1355da-9584-49a0-b44e-8879e65b5851.png">
 
 challenge
+
 ![challenge_서민아](https://user-images.githubusercontent.com/58392978/155126883-2d07eb9f-1bb8-4d93-94ce-360d7fdc1293.jpg)
 
 
 ### Mission2 Screenshot
 basic
+
 - 게시판
+
  - Create
   <img width="500" alt="스크린샷 2022-02-22 오후 7 10 15" src="https://user-images.githubusercontent.com/58392978/155124174-4fd86196-db5a-4d2c-8cbb-171c65f1779c.png">
  - ReadAll
@@ -26,6 +29,7 @@ basic
   <img width="500" alt="스크린샷 2022-02-22 오후 7 13 17" src="https://user-images.githubusercontent.com/58392978/155124371-e3e37132-3eda-4073-8015-efb6e8ca6fde.png">
 
 - 게시글
+
  - Create
   <img width="700" alt="스크린샷 2022-02-22 오후 7 14 49" src="https://user-images.githubusercontent.com/58392978/155125159-94d3870a-f7c1-4e28-85e2-8996d498af98.png">
  - ReadAll
