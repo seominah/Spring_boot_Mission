@@ -5,7 +5,6 @@ basic
 <img width="800" alt="Basic_서민아" src="https://user-images.githubusercontent.com/58392978/155126357-be1355da-9584-49a0-b44e-8879e65b5851.png">
 
 challenge
--
 ![challenge_서민아](https://user-images.githubusercontent.com/58392978/155126883-2d07eb9f-1bb8-4d93-94ce-360d7fdc1293.jpg)
 
 
