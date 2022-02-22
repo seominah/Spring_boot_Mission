@@ -2,6 +2,7 @@
 
 ### Mission1 Screenshot
 basic
+
 <img width="800" alt="Basic_서민아" src="https://user-images.githubusercontent.com/58392978/155126357-be1355da-9584-49a0-b44e-8879e65b5851.png">
 
 challenge
