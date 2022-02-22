@@ -40,5 +40,3 @@ basic
 
 challenge
 - photo
-
- photo
