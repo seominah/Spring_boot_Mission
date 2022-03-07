@@ -14,7 +14,7 @@ challenge
 basic
 - 게시판
   -  create<br>
-      <img width="50%" alt="스크린샷 2022-02-22 오후 7 10 15" src="https://user-images.githubusercontent.com/58392978/155124174-4fd86196-db5a-4d2c-8cbb-171c65f1779c.png">
+      <img width="500" alt="스크린샷 2022-02-22 오후 7 10 15" src="https://user-images.githubusercontent.com/58392978/155124174-4fd86196-db5a-4d2c-8cbb-171c65f1779c.png">
   -  readAll<br>
       <img width="500" alt="스크린샷 2022-02-22 오후 7 10 58" src="https://user-images.githubusercontent.com/58392978/155124206-35c716a2-97b5-4bc3-ae6c-ebfd844128bc.png">
   -  read<br>
@@ -39,9 +39,6 @@ basic
   -  delete<br>
       <img width="500" alt="스크린샷 2022-02-22 오후 7 20 41" src="https://user-images.githubusercontent.com/58392978/155125255-7abfb6bb-d783-4239-9d3e-d2a71bf9e33a.png">
       <img width="500" alt="스크린샷 2022-02-22 오후 7 20 55" src="https://user-images.githubusercontent.com/58392978/155125262-d7442cab-4898-46b7-ba96-9069391e2bd8.png">
-
-challenge
-- photo
 
 ### Mission3 Screenshot
 basic
