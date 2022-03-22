@@ -40,14 +40,16 @@ public class UserController {
             @RequestParam("username") String username,
             @RequestParam("password") String password,
             @RequestParam("password_check") String passwordCheck,
-            @RequestParam(name = "shopOwner", required = false) Boolean shopOwner) {
+            @RequestParam(name = "shopOwner", required = false) String shopOwner) {
         if (!password.equals(passwordCheck)) {
             throw new ResponseStatusException(HttpStatus.BAD_REQUEST);
         }
         UserDto userDto = new UserDto();
         userDto.setUsername(username);
         userDto.setPassword(password);
-        userDto.setShopOwner(shopOwner);
+        if (shopOwner != null) {
+            userDto.setShopOwner(true);
+        }
         this.userService.create(userDto);
         return "redirect:/user/login";
     }
